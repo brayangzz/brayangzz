@@ -90,20 +90,6 @@
 
 ---
 
-### 🚀 Proyectos Destacados
-
-<div align="center">
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 🏥 **FarmaMedic / ClinicTree** | Sistema de gestión de citas médicas con dashboard completo | React · Node.js · MySQL |
-| 🎯 **Compers** | Plataforma web con calendar, autenticación y gestión avanzada | React · TypeScript · Tailwind |
-| 📺 **StreamDeals** | Landing page para venta de cuentas de streaming | Next.js · Framer Motion |
-
-</div>
-
----
-
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -118,17 +104,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brayangzz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF9F4C" width="95%" alt="Activity Graph" />
 </div>
-
----
-
-### 🎯 Lo que estoy aprendiendo ahora
-
-```
-◉ Arquitectura avanzada en React (patterns, performance)
-◉ Seguridad web y fundamentos de ethical hacking
-◉ CI/CD pipelines con GitHub Actions
-◉ PWA y optimización de métricas (Vercel + Render)
-```
 
 ---
 
