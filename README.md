@@ -1,60 +1,149 @@
-<h1 align="center">¡Hola! Soy Brayan 👋</h1>
-<h3 align="center">Frontend Developer en Compers | Construyendo experiencias web con React & Next.js</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brayangzz&label=Visitas al perfil&color=0e75b6&style=flat-square" alt="Contador de visitas" />
+```
+██████╗ ██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
+██████╔╝██████╔╝███████║ ╚████╔╝ ███████║██╔██╗ ██║
+██╔══██╗██╔══██╗██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║
+██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+<h1>¡Hola! Soy Brayan 👋</h1>
+
+<p>
+  <em>Frontend Developer · Compers · Monterrey, México 🇲🇽</em>
 </p>
 
+<p>
+  <a href="https://github.com/brayangzz">
+    <img src="https://komarev.com/ghpvc/?username=brayangzz&label=Visitas&color=0e75b6&style=flat-square" alt="Visitas al perfil" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Building%20cool%20stuff-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Monterrey%2C%20MX-orange?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+</div>
+
 ---
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 
 ### 👨‍💻 Sobre mí
 
-* 🔭 Actualmente trabajando en proyectos frontend en **Compers**.
-* 🌱 Enfocado en el desarrollo de aplicaciones web escalables y eficientes.
-* 📍 Basado en **Monterrey, México**.
-* ⚡ Interesado en crear interfaces limpias y con una gran experiencia de usuario.
+- 🔭 Actualmente construyendo **[Compers](https://github.com/brayangzz)** — plataforma de gestión con React & TypeScript
+- 🌱 Aprendiendo **arquitecturas escalables**, patrones de diseño y UX de alto nivel
+- 💡 Me apasiona crear interfaces **limpias, animadas y con gran UX**
+- 📍 Basado en **Monterrey, México**
+- ⚡ Fun fact: Diseño mis UIs en modo oscuro desde el día uno
+- 🎓 Ing. en Desarrollo y Gestión de Software — **UTHH**
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a>
+#### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### ⚙️ Backend & Base de datos
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+#### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+#### 🧰 Herramientas & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+#### 🖥️ OS & Hardware
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_RTX_4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 🚀 Proyectos Destacados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brayangzz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Estadísticas de Brayan" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayangzz&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Lenguajes Top" width="48%" />
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🏥 **FarmaMedic / ClinicTree** | Sistema de gestión de citas médicas con dashboard completo | React · Node.js · MySQL |
+| 🎯 **Compers** | Plataforma web con calendar, autenticación y gestión avanzada | React · TypeScript · Tailwind |
+| 📺 **StreamDeals** | Landing page para venta de cuentas de streaming | Next.js · Framer Motion |
+
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayangzz&theme=react&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
-</p>
 
 ---
 
-### 📫 Cómo contactarme
+### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <!-- Reemplaza "tu-correo@email.com" con tu correo real -->
-  <a href="mailto:tu-correo@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Reemplaza "tu-usuario" con tu URL de LinkedIn -->
-  <a href="https://linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brayangzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=CDD9E5&icon_color=58A6FF" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayangzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=CDD9E5" width="48%" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayangzz&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9F4C&currStreakNum=CDD9E5&sideNums=CDD9E5&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888" alt="Streak Stats" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brayangzz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF9F4C" width="95%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🎯 Lo que estoy aprendiendo ahora
+
+```
+◉ Arquitectura avanzada en React (patterns, performance)
+◉ Seguridad web y fundamentos de ethical hacking
+◉ CI/CD pipelines con GitHub Actions
+◉ PWA y optimización de métricas (Vercel + Render)
+```
+
+---
+
+### 📫 Contacto
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brayangzz)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=80&section=footer" width="100%" />
+</div>
