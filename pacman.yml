@@ -8,17 +8,16 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v3
+
       - name: Generate pacman graph
-        uses: Platane/snk/svg-only@v3
+        uses: hugoalh/generate-github-profile-contribution-pacman@v1
         with:
-          github_user_name: brayangzz
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-username: brayangzz
+          output-path-light: dist/pacman-contribution-graph.svg
+          output-path-dark: dist/pacman-contribution-graph-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
