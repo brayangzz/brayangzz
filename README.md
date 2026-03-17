@@ -35,7 +35,6 @@
 - 🌱 Aprendiendo **arquitecturas escalables**, patrones de diseño y UX de alto nivel
 - 💡 Me apasiona crear interfaces **limpias, animadas y con gran UX**
 - 📍 Basado en **Monterrey, México**
-- ⚡ Fun fact: Diseño mis UIs en modo oscuro desde el día uno
 - 🎓 Ing. en Desarrollo y Gestión de Software — **UTHH**
 
 <br clear="right"/>
